@@ -1,5 +1,5 @@
-### Hi there 👋
-
+<h1 align="center">Hi there, I'm Aleksey 👋</a></h1>
+<h3 align="center">I am studying at Geekbrains as a developer engineer and I am from Russia.</h3>
 <!--
 **AlekseyIgnatov/AlekseyIgnatov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
